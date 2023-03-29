@@ -23,7 +23,7 @@
 -  <a href="#14-connect-tattoo">Connect Tattoo</a>
 -  <a href="#15-jobjr">JobJR</a>
 -  <a href="#16-routinely">Routinely</a>
--  <a href="#17-social-crm">Social CRM</a>
+-  <a href="#17-terceirogestor">Terceiro Gestor</a>
 -  <a href="#18-care4you">Care4You</a>
 -  <a href="#19-semente-embrião">Semente Embrião</a>
 -  <a href="#20-bora-rachar">Bora Rachar</a>
@@ -268,8 +268,8 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 <hr/>
 
 
-## 17. Social CRM
-**Respositório:** [Social CRM](https://github.com/SocialCRM) 
+## 17- TerceiroGestor
+**Respositório:** [TerceiroGestor](https://github.com/TerceiroGestor) 
 
 **Descrição do projeto**:
 <p align="justify">
@@ -280,12 +280,13 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
 **Equipe** 
  - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
+ - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/) | [Camila Ochoa Piriz](https://www.linkedin.com/in/camilaochoap/)
+ - Agilista: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo/)
+ - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
+ - FrontEnd: [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
+ - Backend: [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) 
  - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
  - Data: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
- - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
- - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
- - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/)
 
 <hr/>
 
